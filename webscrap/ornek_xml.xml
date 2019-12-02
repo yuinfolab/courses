@@ -1,0 +1,32 @@
+<oscar_list id="1" gender="men">
+  <award>
+    <age>44</age>
+    <year>1928</year>
+    <movie>The Last Command- The Way of All Flesh</movie>
+    <name>Emil Jannings</name>
+  </award>
+
+  <award>
+    <age>41</age>
+    <year>1929</year>
+    <movie>In Old Arizona</movie>
+    <name>Warner Baxter</name>
+  </award>
+</oscar_list>
+
+
+<oscar_list id="women">
+  <award>
+    <age>44</age>
+    <year>1928</year>
+    <movie>The Last Command- The Way of All Flesh</movie>
+    <name>Emil Jannings</name>
+  </award>
+
+  <award>
+    <age>41</age>
+    <year>1929</year>
+    <movie>In Old Arizona</movie>
+    <name>Warner Baxter</name>
+  </award>
+</oscar_list>
